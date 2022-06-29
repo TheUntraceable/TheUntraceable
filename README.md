@@ -5,7 +5,7 @@ I am a developer who is currently working on a project called [EpikCord.py](http
 I am also COO of [Coldshard](https://coldshard.com).
 
 ## __What do I use?__
-[![My Skills](https://skillicons.dev/icons?i=html,css,bash,cloudflare,discord,docker,express,github,git,linux,mongodb,netlify,nextjs,nodejs,postgres,py,stackoverflow,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bash,discord,docker,express,github,git,linux,mongodb,netlify,nextjs,nodejs,postgres,py,stackoverflow,vercel)](https://skillicons.dev)
 
 <details>
     <summary>Github Statistics</summary>
