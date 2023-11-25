@@ -9,7 +9,7 @@ I am also COO of [Coldshard](https://coldshard.com).
 
 <details>
     <summary>Github Statistics</summary>
-    <img src = "https://github-readme-stats.vercel.app/api?username=TheUntraceable&show_icons=true&theme=discord_old_blurple&count_private=true"></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=TheUntraceable&show_icons=true&theme=discord_old_blurple&count_private=true"></img>
 </details>
 
 <details>
@@ -25,12 +25,12 @@ I am also COO of [Coldshard](https://coldshard.com).
 4. Do what I want.
 
 ### __Possibilities__
-1. Possibly get into Cyber Security a little bit.
+1. Get into Cyber Security.
 2. Possibly get into Machine Learning a little bit.
-3. Possibly get into Data Science a little bit.
+3. Possibly get into Data Science.
 
  
 ## __How do I get in touch?__
 I’m looking to collaborate on pretty much anything, so if you have a project in mind, please reach out!
-- Discord: The Untraceable#4852
-- Email: TheUntraceable@TheUntraceable.tech
+- Discord: TheUntraceable
+- Email: TheUntraceable@The-Untraceable.xyz
