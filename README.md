@@ -7,7 +7,7 @@ I am also COO of [Coldshard](https://coldshard.com).
 
 ## __What do I use?__
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bash,discord,docker,express,github,git,linux,mongodb,netlify,nextjs,nodejs,postgres,py,stackoverflow,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bash,docker,github,git,mongodb,nextjs,py,vercel)](https://skillicons.dev)
 
 <details>
     <summary>Github Statistics</summary>
