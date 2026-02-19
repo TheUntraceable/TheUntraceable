@@ -1,41 +1,89 @@
-# __The Untraceable.__
+# The Untraceable
 
-## __Who am I?__
+> I build authentication systems, security tooling, and developer infrastructure.
+> Mostly TypeScript. Sometimes Python. Always curious.
 
-I am a developer who is currently working on a project called [EpikCord.py](https://github.com/EpikCord/EpikCord.py).
-I am also COO of [Coldshard](https://coldshard.com).
+---
 
-## __What do I use?__
+## About
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bash,discord,docker,express,github,git,linux,mongodb,netlify,nextjs,nodejs,postgres,py,stackoverflow,vercel)](https://skillicons.dev)
+I’m a full-stack developer focused on identity, cryptography, and backend architecture.
 
-<details>
-    <summary>Github Statistics</summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=TheUntraceable&show_icons=true&theme=discord_old_blurple&count_private=true"></img>
-</details>
+My main interests:
 
-<details>
-    <summary>Most used Languages</summary>
-    <img src="https://wakatime.com/share/@TheUntraceable/44cdc4dc-2238-4aa9-b93e-be8af9653f8e.png" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheUntraceable&theme=discord_old_blurple" />
-</details>
+* Authentication protocols (OPAQUE, OAuth)
+* Developer tooling
 
-## __What are my plans?__
+I like understanding how things work under the hood — then rebuilding them better.
 
-1. Finish EpikCord.
-2. Get into Web Development a little bit.
-3. Get into Networking some more.
-4. Do what I want.
+---
 
-### __Possibilities__
+## What I Work With
 
-1. Get into Cyber Security.
-2. Possibly get into Machine Learning a little bit.
-3. Possibly get into Data Science.
+[![My Skills](https://skillicons.dev/icons?i=typescript,python,nextjs,mongodb,bun,docker,git,github,vercel)](https://skillicons.dev)
 
-## __How do I get in touch?__
+---
 
-I’m looking to collaborate on pretty much anything, so if you have a project in mind, please reach out!
+## Areas of Expertise
 
-- Discord: TheUntraceable
-- Email: <TheUntraceable@The-Untraceable.xyz>
+### Authentication & Security
+
+* Created a plugin for the **OPAQUE aPAKE protocol** for Better Auth
+* Researched and demonstrated vulnerabilities in SSO implementations
+* Deep interest in identity architecture and auth flows
+
+### Full-Stack Systems
+
+* Production-ready Next.js applications
+* API design and backend architecture
+* Real-time systems and database integration
+
+### Developer Tooling
+
+I enjoy building tools that remove friction for developers and automate workflows.
+
+---
+
+## Projects
+
+### [better-auth-opaque](https://github.com/TheUntraceable/better-auth-opaque)
+
+OPAQUE implementation for Better Auth.
+
+### create-unstack
+
+Opinionated Next.js starter with MongoDB and authentication preconfigured.
+
+### [Unstack Pro](https://convex.unstack.pro)
+
+NextJS starter with Convex backend, authentication, all out of the box.
+
+### better-auth-sso-vuln-poc
+
+Proof-of-concept demonstrating SSO vulnerabilities in Better Auth.
+
+---
+
+## Current Interests
+
+* Identity providers (IdP)
+* OAuth 2.1 ecosystem
+* Bun runtime
+* Secure architecture patterns
+* Developer Tools
+
+---
+
+## Philosophy
+
+> Build things you wish existed.
+> Make things that are useful.
+> Security is never optional.
+
+---
+
+## Contact
+
+Discord: TheUntraceable
+Email: [r@untraceable.dev](mailto:r@untraceable.dev)
+Twitter: @untraceable_the
