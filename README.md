@@ -14,7 +14,7 @@ My main interests:
 * Authentication protocols (OPAQUE, OAuth)
 * Developer tooling
 
-I like understanding how things work under the hood — then rebuilding them better.
+I like understanding how things work under the hood — then rebuilding them better. Lots of my project are made out of hate for current implementations.
 
 ---
 
