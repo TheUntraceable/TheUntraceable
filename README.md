@@ -46,7 +46,10 @@ I enjoy building tools that remove friction for developers and automate workflow
 
 ## Projects
 
-### [better-auth-opaque](https://github.com/TheUntraceable/better-auth-opaque)
+### [ZeroDay.Report](https://zeroday.report)
+Modern cheap managed alternative to security@domain.com.
+
+### [Better Auth Opaque Plugin](https://github.com/TheUntraceable/better-auth-opaque)
 
 OPAQUE implementation for Better Auth.
 
