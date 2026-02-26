@@ -89,4 +89,4 @@ Proof-of-concept demonstrating SSO vulnerabilities in Better Auth.
 
 Discord: TheUntraceable
 Email: [r@untraceable.dev](mailto:r@untraceable.dev)
-Twitter: @untraceable_the
+Twitter: [@untraceable_the](https://x.com/@untraceable_the)
