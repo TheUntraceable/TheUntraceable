@@ -50,7 +50,7 @@ I enjoy building tools that remove friction for developers and automate workflow
 
 OPAQUE implementation for Better Auth.
 
-### create-unstack
+### [create-unstack](https://github.com/TheUntraceable/create-unstack)
 
 Opinionated Next.js starter with MongoDB and authentication preconfigured.
 
@@ -58,7 +58,7 @@ Opinionated Next.js starter with MongoDB and authentication preconfigured.
 
 NextJS starter with Convex backend, authentication, all out of the box.
 
-### better-auth-sso-vuln-poc
+### [Better Auth SSO Vulnerability SSO](https://github.com/TheUntraceable/better-auth-sso-vuln-poc)
 
 Proof-of-concept demonstrating SSO vulnerabilities in Better Auth.
 
