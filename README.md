@@ -20,7 +20,7 @@ I like understanding how things work under the hood — then rebuilding them bet
 
 ## What I Work With
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,python,nextjs,mongodb,bun,docker,git,github,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,python,mongodb,bun,git,vercel)](https://skillicons.dev)
 
 ---
 
