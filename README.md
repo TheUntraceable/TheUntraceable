@@ -1,26 +1,26 @@
 # The Untraceable
 
-> I build authentication systems, security tooling, and developer infrastructure.
-> Mostly TypeScript. Sometimes Python. Always curious.
+> I build dev tools.
+> Mostly TypeScript. Sometimes Python.
 
 ---
 
 ## About
 
-I’m a full-stack developer focused on identity, cryptography, and backend architecture.
+I’m a full-stack developer focused on identity, cryptography.
 
 My main interests:
 
 * Authentication protocols (OPAQUE, OAuth)
 * Developer tooling
 
-I like understanding how things work under the hood — then rebuilding them better. Lots of my project are made out of hate for current implementations.
+I like understanding how things work under the hood then rebuilding them better. Lots of my project are made out of hate for current implementations.
 
 ---
 
 ## What I Work With
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,python,mongodb,bun,git,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,python,nextjs,mongodb,bun,git)](https://skillicons.dev)
 
 ---
 
